@@ -113,23 +113,184 @@
 <music xml:id="m-24">
     <performance>
       <recording>
-        <avFile targettype="youtube" target="https://www.youtube.com/watch?v=u9yc0InpU9M"/>
-          <clip begin="00:00:00:00" end="00:00:07.758" betype="time" n="c1" startid="#m-49">
-            <when xmlid="start1" absolute="00:00:00.00"/>
-            <when xmlid="end1" absolute="00:00:07.758"/>
+        <avFile targettype="youtube" target="https://www.youtube.com/watch?v=u9yc0InpU9M">
+          <clip begin="00:00:00.00" end="00:00:04.249" betype="time" n="c1" startid="#m-44" xml:id="m-3001">
           </clip>
-          <clip begin="00:00:07.758" end="00:00:14.224" betype="time" n="c2" startid="#m-197">
-            <when xmlid="start2" absolute="00:00:07.758"/>
-            <when xmlid="end2" absolute="00:00:14.224"/>
+          <clip begin="00:00:04.249" end="00:00:07.758" betype="time" n="c2" startid="#m-142" xml:id="m-3002">
           </clip>
-          <clip begin="00:00:14.224" end="00:00:22.198" betype="time" n="c3" startid="#m-274">
-            <when xmlid="start3" absolute="00:00:14.224"/>
-            <when xmlid="end3" absolute="00:00:22.198"/>
+          <clip begin="00:00:07.758" end="00:00:11.589" betype="time" n="c3" startid="#m-194" xml:id="m-3003">
           </clip>
-          <clip begin="00:00:22.198" end="00:00:30.710" betype="time" n="c4" startid="#m-441">
-            <when xmlid="start4" absolute="00:00:22.198"/>
-            <when xmlid="end4" absolute="00:00:30.710"/>
+          <clip begin="00:00:11.589" end="00:00:15.391" betype="time" n="c4" startid="#m-268" xml:id="m-3004">
           </clip>
+          <clip begin="00:00:15.391" end="00:00:18.83" betype="time" n="c5" startid="#m-319" xml:id="m-3005">
+          </clip>
+          <clip begin="00:00:18.83" end="00:00:22.748" betype="time" n="c6" startid="#m-430" xml:id="m-3006">
+          </clip>
+          <clip begin="00:00:22.748" end="00:00:26.6" betype="time" n="c7" startid="#m-518" xml:id="m-3007">
+          </clip>
+          <clip begin="00:00:26.6" end="00:00:30.71" betype="time" n="c8" startid="#m-580" xml:id="m-3008">
+          </clip>
+          <clip begin="00:00:30.71" end="00:00:34.816" betype="time" n="c9" startid="#m-625" xml:id="m-3009">
+          </clip>
+          <clip begin="00:00:34.816" end="00:00:38.792" betype="time" n="c10" startid="#m-680" xml:id="m-3010">
+          </clip>
+          <clip begin="00:00:38.792" end="00:00:44.289" betype="time" n="c11" startid="#m-798" xml:id="m-3011">
+          </clip>
+          <clip begin="00:00:44.289" end="00:00:48.455" betype="time" n="c12" startid="#m-894" xml:id="m-3012">
+          </clip>
+          <clip begin="00:00:48.455" end="00:00:51.943" betype="time" n="c13" startid="#m-951" xml:id="m-3013">
+          </clip>
+          <clip begin="00:00:51.943" end="00:00:55.779" betype="time" n="c14" startid="#m-1060" xml:id="m-3014">
+          </clip>
+          <clip begin="00:00:55.779" end="00:00:59.449" betype="time" n="c15" startid="#m-1128" xml:id="m-3015">
+          </clip>
+          <clip begin="00:00:59.449" end="00:01:03.88" betype="time" n="c16" startid="#m-1184" xml:id="m-3016">
+          </clip>
+          <clip begin="00:01:03.88" end="00:01:07.252" betype="time" n="c17" startid="#m-1243" xml:id="m-3017">
+          </clip>
+          <clip begin="00:01:07.252" end="00:01:10.903" betype="time" n="c18" startid="#m-1324" xml:id="m-3018">
+          </clip>
+          <clip begin="00:01:10.903" end="00:01:16.543" betype="time" n="c19" startid="#m-1385" xml:id="m-3019">
+          </clip>
+          <clip begin="00:01:16.543" end="00:01:21.436" betype="time" n="c20" startid="#m-1514" xml:id="m-3020">
+          </clip>
+          <clip begin="00:01:21.436" end="00:01:25.371" betype="time" n="c21" startid="#m-1578" xml:id="m-3021">
+          </clip>
+          <clip begin="00:01:25.371" end="00:01:29.006" betype="time" n="c22" startid="#m-1674" xml:id="m-3022">
+          </clip>
+          <clip begin="00:01:29.006" end="00:01:35.191" betype="time" n="c23" startid="#m-1734" xml:id="m-3023">
+          </clip>
+          <clip begin="00:01:35.191" end="00:01:39.754" betype="time" n="c24" startid="#m-1852" xml:id="m-3024">
+          </clip>
+          <clip begin="00:01:39.754" end="00:01:43.424" betype="time" n="c25" startid="#m-1917" xml:id="m-3025">
+          </clip>
+          <clip begin="00:01:43.424" end="00:01:47.557" betype="time" n="c26" startid="#m-1969" xml:id="m-3026">
+          </clip>
+          <clip begin="00:01:47.557" end="00:01:51.194" betype="time" n="c27" startid="#m-2042" xml:id="m-3027">
+          </clip>
+          <clip begin="00:01:51.194" end="00:01:55.298" betype="time" n="c28" startid="#m-2101" xml:id="m-3028">
+          </clip>
+        </avFile>
+      </recording>
+      <recording xml:id="re-01" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="01-rosen.mp3" xml:id="fi-01">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-03" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="03-sit.mp3" xml:id="fi-03">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-06" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="06-af.mp3" xml:id="fi-06">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-08" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="08-og.mp3" xml:id="fi-08">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-09" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="09-duft.mp3" xml:id="fi-09">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-11" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="11-svaje.mp3" xml:id="fi-11">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-13" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="13-tyst.mp3" xml:id="fi-13">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-16" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="16-lumre.mp3" xml:id="fi-16">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-17" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="17-luft.mp3" xml:id="fi-17">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-19" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="19-vælte" xml:id="fi-19">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-21" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="21-tunge.mp3" xml:id="fi-21">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-22" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="22-sølv.mp3" xml:id="fi-22">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-23" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="23-døsig.mp3" xml:id="fi-23">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-26" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="26-pege.mp3" xml:id="fi-26">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-27" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="27-mod.mp3" xml:id="fi-27">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-29" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="29-op.mp3" xml:id="fi-29">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-37" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="37-blå.mp3" xml:id="fi-37">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-42" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="42-flok.mp3" xml:id="fi-42">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-44" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="44-de.mp3" xml:id="fi-44">
+          </avFile>
+        </clip>
+      </recording>
+      <recording xml:id="re-46" startid="">
+        <clip startid="">
+          <avFile mimeType="audio/mpeg-3" target="46-små" xml:id="fi-46">
+          </avFile>
+        </clip>
       </recording>
     </performance>
     <body xml:id="m-25">
@@ -171,7 +332,7 @@
                                 <note xml:id="m-51" dur="4" dur.ges="256p" oct="4" pname="b" pnum="70" stem.dir="down">
                                     <accid xml:id="m-52" accid.ges="f"/>
                                     <verse xml:id="m-62" n="1">
-                                        <syl xml:id="m-63" wordpos="t">sen</syl>
+                                        <syl xml:id="m-63" wordpos="t" when="#senRecording">sen</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-53" dur="4" dur.ges="256p" oct="5" pname="d" pnum="73" stem.dir="down">
@@ -1348,7 +1509,7 @@
                             <layer xml:id="m-801" n="1">
                                 <note xml:id="m-802" dur="4" dur.ges="256p" oct="4" pname="f" pnum="65" stem.dir="up">
                                     <verse xml:id="m-809" n="1">
-                                        <syl xml:id="m-810" wordpos="i">sölv</syl>
+                                        <syl xml:id="m-810" wordpos="i">sølv</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-803" dur="4" dur.ges="256p" oct="4" pname="f" pnum="65" stem.dir="up">
@@ -1375,7 +1536,7 @@
                                 <note xml:id="m-819" dur="4" dur.ges="256p" oct="4" pname="d" pnum="62" stem.dir="up">
                                     <accid xml:id="m-820" accid="n"/>
                                     <verse xml:id="m-828" n="1">
-                                        <syl xml:id="m-829" wordpos="i">sölv</syl>
+                                        <syl xml:id="m-829" wordpos="i">sølv</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-821" dur="4" dur.ges="256p" oct="4" pname="d" pnum="61" stem.dir="up">
@@ -1402,7 +1563,7 @@
                             <layer xml:id="m-837" n="1">
                                 <note xml:id="m-838" dur="4" dur.ges="256p" oct="3" oct.ges="2" pname="f" pnum="41" stem.dir="up">
                                     <verse xml:id="m-851" n="1">
-                                        <syl xml:id="m-852" wordpos="i">sölv</syl>
+                                        <syl xml:id="m-852" wordpos="i">sølv</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-839" dur="4" dur.ges="256p" oct="4" oct.ges="3" pname="c" pnum="47" stem.dir="down">
@@ -1436,7 +1597,7 @@
                                 <note xml:id="m-861" dur="4" dur.ges="256p" oct="2" pname="b" pnum="46" stem.dir="up">
                                     <accid xml:id="m-862" accid.ges="f"/>
                                     <verse xml:id="m-886" n="1">
-                                        <syl xml:id="m-887" wordpos="i">sölv</syl>
+                                        <syl xml:id="m-887" wordpos="i">sølv</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-866" dur="4" dur.ges="256p" oct="3" pname="d" pnum="49" stem.dir="up">

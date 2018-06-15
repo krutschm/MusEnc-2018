@@ -25,7 +25,7 @@ function onYouTubeIframeAPIReady() {
   // Get performance data from MEI file
   /* Setup and send the request */
   var xhr = new XMLHttpRequest()
-  xhr.open('GET', 'data/example.mei') // <-- change this to the right file
+  xhr.open('GET', 'data/Stenhammar.mei') // <-- change this to the right file
   xhr.send(null)
 
   /* Deal with the response */
